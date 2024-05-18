@@ -11,6 +11,9 @@ The programming languages used for machine learning
 - It is a dynamically typed language, you don’t need to declare the type of a variable
 - It runs on various OS including windows, mac, Linux.
 
+# Jupyter Notebook
+All the concepts covered in this module are practically covered in the [Notebook.](/2%20Python_Basics/Python_Basics.ipynb)
+
 # Basics in Python
 
 ## Variables
